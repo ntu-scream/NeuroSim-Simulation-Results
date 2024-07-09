@@ -1,0 +1,135 @@
+Total SubArray (synaptic core) area=5.0841e-09 m^2
+Total Neuron (neuron peripheries) area=1.2082e-09 m^2
+Total area=6.2924e-09 m^2
+Leakage power of subArrayIH is : 7.1391e-05 W
+Leakage power of subArrayHO is : 1.6238e-05 W
+Leakage power of NeuronIH is : 1.5533e-05 W
+Leakage power of NeuronHO is : 2.4850e-06 W
+Total leakage power of subArray is : 8.7629e-05 W
+Total leakage power of Neuron is : 1.8018e-05 W
+Accuracy at 1 epochs is : 16.41%
+	Read latency=3.0217e-03 s
+	Write latency=0.0000e+00 s
+	Read energy=4.2232e-06 J
+	Write energy=0.0000e+00 J
+Accuracy at 2 epochs is : 15.56%
+	Read latency=6.0434e-03 s
+	Write latency=0.0000e+00 s
+	Read energy=8.4464e-06 J
+	Write energy=0.0000e+00 J
+Accuracy at 3 epochs is : 15.78%
+	Read latency=9.0651e-03 s
+	Write latency=0.0000e+00 s
+	Read energy=1.2669e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 4 epochs is : 16.03%
+	Read latency=1.2087e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=1.6892e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 5 epochs is : 15.07%
+	Read latency=1.5109e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=2.1115e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 6 epochs is : 15.70%
+	Read latency=1.8130e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=2.5338e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 7 epochs is : 13.51%
+	Read latency=2.1152e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=2.9561e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 8 epochs is : 13.19%
+	Read latency=2.4174e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=3.3784e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 9 epochs is : 13.28%
+	Read latency=2.7195e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=3.8007e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 10 epochs is : 13.01%
+	Read latency=3.0217e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=4.2230e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 11 epochs is : 12.84%
+	Read latency=3.3239e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=4.6452e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 12 epochs is : 10.64%
+	Read latency=3.6260e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=5.0675e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 13 epochs is : 13.82%
+	Read latency=3.9282e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=5.4898e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 14 epochs is : 11.89%
+	Read latency=4.2304e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=5.9121e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 15 epochs is : 12.14%
+	Read latency=4.5326e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=6.3343e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 16 epochs is : 11.67%
+	Read latency=4.8347e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=6.7566e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 17 epochs is : 10.95%
+	Read latency=5.1369e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=7.1789e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 18 epochs is : 12.87%
+	Read latency=5.4391e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=7.6011e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 19 epochs is : 12.11%
+	Read latency=5.7412e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=8.0234e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 20 epochs is : 10.26%
+	Read latency=6.0434e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=8.4457e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 21 epochs is : 10.79%
+	Read latency=6.3456e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=8.8679e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 22 epochs is : 10.75%
+	Read latency=6.6477e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=9.2902e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 23 epochs is : 11.23%
+	Read latency=6.9499e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=9.7125e-05 J
+	Write energy=0.0000e+00 J
+Accuracy at 24 epochs is : 10.68%
+	Read latency=7.2521e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=1.0135e-04 J
+	Write energy=0.0000e+00 J
+Accuracy at 25 epochs is : 11.21%
+	Read latency=7.5543e-02 s
+	Write latency=0.0000e+00 s
+	Read energy=1.0557e-04 J
+	Write energy=0.0000e+00 J
+
